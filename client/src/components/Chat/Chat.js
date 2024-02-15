@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = "projectchatapplicationserver-production-d854.up.railway.app";
+const ENDPOINT = "https://project-chat-application.onrender.com/";
 
 let socket;
 
